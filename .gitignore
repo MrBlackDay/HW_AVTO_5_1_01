@@ -44,4 +44,3 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-//git add -f artifacts/app-mbank.jar
